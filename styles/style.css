@@ -71,6 +71,7 @@
   display: grid;
   position: relative;
   background-image: url(/images/cover.jpg);
+ 
   background-size: cover; 
   background-position: center;
   background-repeat: no-repeat;
@@ -90,7 +91,7 @@
 }
 
 
-.cover-title{
+.cover-title {
   display: grid;
   letter-spacing: 0.3em;
   height: 115px;
@@ -105,6 +106,7 @@
 
 .aligned-text {
   position: relative;
+  
   text-align: left; 
   padding-left: 50px;
   font-weight: 700;
@@ -116,6 +118,7 @@
 .aligned-text-center {
   position: relative;
   font-weight: 700;
+  
   text-align: center; 
   color: #fff;
   z-index: 2;
@@ -196,6 +199,7 @@
 
 
 .card__link {
+  
   display: flex; 
   height: 100%;
   flex-direction: column; 
@@ -264,7 +268,9 @@
 
 .card__type_film {
   position: relative;
+  
   background-image: url(/images/card-lot-01.jpg);
+  
   background-size: cover; 
   background-position: center;
   background-repeat: no-repeat;
@@ -277,6 +283,7 @@
 .card__type_book {
  position: relative;
  background-image: url(/images/card-lot-02.jpg);
+ 
  background-size: cover; 
  background-position: center;
  background-repeat: no-repeat;
@@ -289,6 +296,7 @@
 .card__type_picture {
  position: relative;
  background-image: url(/images/card-lot-03.jpg);
+ 
  background-size: cover; 
  background-position: center;
  background-repeat: no-repeat;
@@ -297,14 +305,6 @@
  z-index: 1;
 }
 
-
-.overlay {
- position: absolute;
- width: 100%;
- height: 100%;
- background-color: rgb(0, 0, 0, 0.5);
- z-index: -1;
-}
 
 .about {
  width: 1052px;
@@ -324,6 +324,7 @@
  width: 240px;
  background-color: black;
  border-radius: 50%;
+ 
  justify-content: center; 
  align-items: center;
  margin-left: 47px;
@@ -351,6 +352,7 @@
 .about__text_first {
  font-size: 20px;
  line-height: 24px;
+ 
  margin-bottom: 10px; 
  padding-top: 133px;
 }
@@ -398,6 +400,7 @@
 .first-list-title-footer {
   text-decoration: none;
 }
+
 
 .footer__social-list-item {
   display: flex;
