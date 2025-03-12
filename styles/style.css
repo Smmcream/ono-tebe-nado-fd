@@ -71,7 +71,7 @@
   display: grid;
   position: relative;
   background-image: url(/images/cover.jpg);
- 
+
   background-size: cover; 
   background-position: center;
   background-repeat: no-repeat;
@@ -106,7 +106,6 @@
 
 .aligned-text {
   position: relative;
-  
   text-align: left; 
   padding-left: 50px;
   font-weight: 700;
@@ -296,7 +295,6 @@
 .card__type_picture {
  position: relative;
  background-image: url(/images/card-lot-03.jpg);
- 
  background-size: cover; 
  background-position: center;
  background-repeat: no-repeat;
@@ -347,6 +345,7 @@
  text-transform: uppercase;
  margin: 0;
  align-items: start;
+
 }
 
 .about__text_first {
@@ -355,6 +354,7 @@
  
  margin-bottom: 10px; 
  padding-top: 133px;
+
 }
 
 .about__text_second {
@@ -362,6 +362,7 @@
  line-height: 24px;
  margin: 0;
  justify-items: end;
+
 }
 
 .footer {
@@ -372,6 +373,7 @@
  background-color: white;
  height: 180px;
  width: 1100px;
+ 
 }
 
 .footer__address {
@@ -415,3 +417,4 @@
   height: 48px;
   width: 48px;
 }
+
