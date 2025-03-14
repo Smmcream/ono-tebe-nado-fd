@@ -130,6 +130,7 @@
   word-spacing: 20px;
   z-index: 2;
 }
+
 .cover__discription_text {
   position: relative;
   font-family: Raleway, sans-serif;
@@ -245,25 +246,25 @@
 .card__type_film {
   background-image: url(/images/card-lot-01.jpg);
   height: 100%;
-  background-size: cover; 
-  background-position: center; 
-  background-repeat: no-repeat; 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .card__type_book {
   background-image: url(/images/card-lot-02.jpg);
   height: 100%;
-  background-size: cover; 
-  background-position: center; 
-  background-repeat: no-repeat; 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .card__type_picture {
   background-image: url(/images/card-lot-03.jpg);
   height: 100%;
-  background-size: cover; 
-  background-position: center; 
-  background-repeat: no-repeat; 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .about {
