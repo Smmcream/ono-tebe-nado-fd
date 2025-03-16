@@ -303,7 +303,6 @@
 .footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  align-items: center;
   align-items: start;
   font-family: Raleway, sans-serif;
   font-style: normal;
